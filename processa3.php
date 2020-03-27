@@ -1,7 +1,7 @@
 <?php
-$titulo = $_POST["titulo"];
-$pweb = $_POST["pweb"];
-$data = $_POST["data"];
+$titulo = $_GET["titulo"];
+$pweb = $_GET["pweb"];
+$data = $_GET["data"];
  ?>
 
  <html>
